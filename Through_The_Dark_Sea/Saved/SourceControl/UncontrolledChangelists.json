@@ -7,8 +7,10 @@
 			"files": [
 				"C:/Users/david/Documents/GitHub/through_the_dark_sea/Through_The_Dark_Sea/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/david/Documents/GitHub/through_the_dark_sea/Through_The_Dark_Sea/Content/Maps/lightingPrototypeMap.umap",
-				"C:/Users/david/Documents/GitHub/through_the_dark_sea/Through_The_Dark_Sea/Content/Characters/MainCharacter/BP_Main_Character.uasset",
-				"C:/Users/david/Documents/GitHub/through_the_dark_sea/Through_The_Dark_Sea/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Users/david/Documents/GitHub/through_the_dark_sea/Through_The_Dark_Sea/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/david/Documents/GitHub/through_the_dark_sea/Through_The_Dark_Sea/Content/props/BioFlower.uasset",
+				"C:/Users/david/Documents/GitHub/through_the_dark_sea/Through_The_Dark_Sea/Content/ThirdPerson/Maps/lightingPrototypeMap.umap",
+				"C:/Users/david/Documents/GitHub/through_the_dark_sea/Through_The_Dark_Sea/Content/Characters/MainCharacter/BP_Main_Character.uasset"
 			]
 		}
 	]
