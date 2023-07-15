@@ -1592,3 +1592,7 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.07.15-18.43.07:303][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.07.15-18.43.07:304][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.07.15-18.43.07:306][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.07.15-18.46.17:082][773]LogViewport: Scene viewport resized to 1047x730, mode Windowed.
+[2023.07.15-18.46.20:331][835]LogViewport: Scene viewport resized to 1257x858, mode Windowed.
+[2023.07.15-18.46.20:342][835]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.15-18.46.20:343][835]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
